@@ -1,0 +1,22 @@
+body
+{
+    background-color: lightblue;
+    font-size:x-large;
+}
+button:hover
+{
+    margin-right: 50px;
+    background-color: lightsteelblue;
+    padding: 5px;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+}
+a
+{
+    text-decoration: none;
+}
+img
+{
+    border-radius: 2em;
+}
